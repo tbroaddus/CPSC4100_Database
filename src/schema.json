@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "name": "Name",
+      "type": "string"
+    },
+    {
+      "name": "Email",
+      "type": "string"
+    },
+    {
+      "name": "Age",
+      "type": "integer"
+    },
+    {
+      "name": "Grade",
+      "type": "float"
+    },
+    {
+      "name": "Honor Student",
+      "type": "boolean"
+    }
+  ]
+}
